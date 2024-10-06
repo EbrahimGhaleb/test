@@ -2,7 +2,7 @@
 def eeb(x):
     eeb = int (input("ادخل العدد: "))
 
-    if eeb % 2==0:
+    if eeb % 2!=0:
           
           print("نعم")
 
